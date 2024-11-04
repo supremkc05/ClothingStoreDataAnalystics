@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Product,Product Category,Size,Color,Cost (in NPR),Quantity,Total Cost (in NPR),Purchase Date,Store Location,Purchase Method,Foot Traffic,Gender,Product Rating,Customer Type
+CUST001,Customer_1,Dress,Casualwear,L,Black,1800,4,7200,2024-04-30,Bhaktapur,Visited Store,132,Male,2,New
+CUST002,Customer_2,Shirt,Casualwear,L,Blue,1737,2,3474,2023-12-17,Lalitpur,Website,471,Female,2,New
+CUST003,Customer_3,Skirt,Bottomwear,S,Black,648,3,1944,2023-11-19,Boudha,Visited Store,488,Male,4,Returning
+CUST004,Customer_4,Blazer,Bottomwear,XL,Yellow,2603,1,2603,2024-04-30,Thamel,Visited Store,309,Male,2,Returning
+CUST005,Customer_5,T-shirt,Outerwear,M,Blue,780,1,780,2024-09-16,Bhaktapur,Visited Store,395,Male,2,Returning
+CUST006,Customer_6,Skirt,Outerwear,M,White,1838,3,5514,2023-11-13,Boudha,Website,226,Female,4,New
+CUST007,Customer_7,Dress,Bottomwear,S,Gray,1187,5,5935,2024-04-12,Kathmandu,Website,155,Male,4,New
+CUST008,Customer_8,T-shirt,Outerwear,S,Red,896,5,4480,2024-08-27,Boudha,Website,50,Male,1,Returning
+CUST009,Customer_9,Sweater,Bottomwear,M,Red,1222,5,6110,2024-03-03,Lalitpur,Website,435,Male,5,Returning
+CUST010,Customer_10,Shorts,Bottomwear,S,Red,623,1,623,2024-05-13,Kathmandu,Visited Store,144,Female,5,Returning
+CUST011,Customer_11,Blazer,Formalwear,M,Yellow,2142,2,4284,2024-09-29,Thamel,Visited Store,418,Male,2,Returning
+CUST012,Customer_12,T-shirt,Topwear,L,Pink,620,1,620,2024-02-21,Thamel,Visited Store,127,Male,5,New
+CUST013,Customer_13,Dress,Casualwear,S,Pink,1129,3,3387,2024-08-19,Bhaktapur,Visited Store,186,Male,2,Returning
+CUST014,Customer_14,Dress,Bottomwear,S,Gray,3907,1,3907,2024-05-09,Jawalakhel,Website,496,Male,1,New
+CUST015,Customer_15,Blazer,Outerwear,XL,White,533,4,2132,2024-10-10,Boudha,Website,256,Female,4,Returning
+CUST016,Customer_16,T-shirt,Topwear,M,Red,4845,2,9690,2024-07-23,Bhaktapur,Visited Store,194,Male,4,New
+CUST017,Customer_17,Dress,Casualwear,L,Blue,2042,5,10210,2024-01-21,Kathmandu,Website,274,Female,4,Returning
+CUST018,Customer_18,Dress,Bottomwear,XL,Green,3070,4,12280,2024-06-28,Kathmandu,Website,254,Female,5,Returning
+CUST019,Customer_19,Shirt,Outerwear,XL,Gray,3038,4,12152,2023-11-21,Bhaktapur,Visited Store,396,Female,1,Returning
+CUST020,Customer_20,Jeans,Topwear,M,Black,4373,4,17492,2024-05-18,Patan,Website,292,Male,5,Returning
+CUST021,Customer_21,Shirt,Bottomwear,M,White,4260,5,21300,2024-01-25,Lalitpur,Visited Store,109,Female,5,New
+CUST022,Customer_22,Blazer,Outerwear,L,Green,3372,5,16860,2024-01-10,Patan,Website,433,Male,1,Returning
+CUST023,Customer_23,Coat,Bottomwear,S,Yellow,2297,5,11485,2024-05-31,Bhaktapur,Visited Store,111,Female,1,New
+CUST024,Customer_24,Skirt,Topwear,XL,Pink,4076,5,20380,2023-11-25,Jawalakhel,Website,479,Female,1,New
+CUST025,Customer_25,Skirt,Outerwear,M,Green,3946,4,15784,2024-04-12,Patan,Visited Store,252,Female,1,New
+CUST026,Customer_26,Jeans,Topwear,M,White,2957,4,11828,2024-01-10,Lalitpur,Website,129,Female,4,New
+CUST027,Customer_27,Dress,Formalwear,XL,Pink,2995,2,5990,2023-11-04,Kathmandu,Visited Store,425,Female,3,Returning
+CUST028,Customer_28,Skirt,Bottomwear,S,Yellow,960,3,2880,2023-12-09,Boudha,Visited Store,94,Female,3,New
+CUST029,Customer_29,Dress,Topwear,M,Black,4700,4,18800,2024-03-05,Jawalakhel,Website,432,Female,1,New
+CUST030,Customer_30,Dress,Topwear,L,Green,3893,5,19465,2024-09-06,Bhaktapur,Website,161,Female,3,New
+CUST031,Customer_31,Coat,Outerwear,L,Pink,4979,2,9958,2024-05-15,Jawalakhel,Visited Store,426,Male,3,Returning
+CUST032,Customer_32,Dress,Formalwear,L,Yellow,4656,2,9312,2024-04-25,Lalitpur,Visited Store,284,Male,1,Returning
+CUST033,Customer_33,Blazer,Outerwear,XL,Green,4753,4,19012,2024-04-13,Patan,Website,364,Female,3,Returning
+CUST034,Customer_34,Shorts,Bottomwear,L,Black,3499,5,17495,2024-09-21,Lalitpur,Website,318,Female,5,Returning
+CUST035,Customer_35,Shirt,Formalwear,L,Gray,1629,5,8145,2024-10-03,Kathmandu,Visited Store,498,Female,2,New
+CUST036,Customer_36,T-shirt,Bottomwear,S,Yellow,1208,3,3624,2023-11-27,Jawalakhel,Website,69,Male,2,New
+CUST037,Customer_37,Skirt,Casualwear,XL,Yellow,1464,3,4392,2023-11-05,Jawalakhel,Visited Store,92,Female,1,Returning
+CUST038,Customer_38,Shorts,Bottomwear,M,Gray,3234,4,12936,2024-07-08,Thamel,Visited Store,152,Male,4,New
+CUST039,Customer_39,T-shirt,Casualwear,XL,Yellow,4707,1,4707,2024-04-29,Thamel,Visited Store,149,Male,1,New
+CUST040,Customer_40,Dress,Formalwear,M,Black,3887,2,7774,2024-04-01,Thamel,Website,234,Male,4,New
+CUST041,Customer_41,Dress,Casualwear,L,Blue,4900,3,14700,2023-12-31,Boudha,Visited Store,454,Male,2,Returning
+CUST042,Customer_42,Jacket,Topwear,M,Blue,3623,5,18115,2024-05-20,Jawalakhel,Visited Store,475,Male,1,Returning
+CUST043,Customer_43,Shorts,Bottomwear,S,Pink,948,2,1896,2024-06-18,Boudha,Visited Store,298,Female,5,New
+CUST044,Customer_44,Shirt,Bottomwear,S,Green,1471,5,7355,2024-02-10,Thamel,Website,181,Female,3,Returning
+CUST045,Customer_45,Jacket,Outerwear,L,White,3521,2,7042,2024-10-05,Jawalakhel,Visited Store,445,Female,4,Returning
+CUST046,Customer_46,Shirt,Bottomwear,S,Green,2550,3,7650,2024-02-05,Bhaktapur,Visited Store,222,Female,3,Returning
+CUST047,Customer_47,T-shirt,Bottomwear,M,White,4939,5,24695,2024-08-26,Bhaktapur,Visited Store,260,Female,3,Returning
+CUST048,Customer_48,Coat,Topwear,M,White,3359,1,3359,2024-01-10,Lalitpur,Visited Store,488,Male,1,Returning
+CUST049,Customer_49,T-shirt,Casualwear,M,Blue,3944,5,19720,2024-04-12,Bhaktapur,Visited Store,429,Female,3,New
+CUST050,Customer_50,Blazer,Bottomwear,L,Black,1592,1,1592,2024-10-24,Lalitpur,Website,449,Female,5,Returning
+CUST051,Customer_51,Sweater,Outerwear,M,Yellow,1217,1,1217,2024-09-07,Patan,Visited Store,250,Male,3,New
+CUST052,Customer_52,Jacket,Outerwear,L,Red,4341,5,21705,2024-06-21,Patan,Visited Store,424,Female,1,New
+CUST053,Customer_53,Coat,Bottomwear,M,Blue,2114,4,8456,2024-06-12,Jawalakhel,Visited Store,275,Male,5,Returning
+CUST054,Customer_54,T-shirt,Bottomwear,M,Pink,1340,2,2680,2024-02-14,Thamel,Visited Store,401,Female,2,New
+CUST055,Customer_55,Blazer,Topwear,XL,White,1427,1,1427,2024-10-26,Patan,Website,249,Male,3,New
+CUST056,Customer_56,Blazer,Bottomwear,L,Gray,2871,5,14355,2024-02-14,Thamel,Website,408,Female,1,New
+CUST057,Customer_57,T-shirt,Casualwear,M,Red,2529,5,12645,2024-04-26,Bhaktapur,Website,50,Female,2,Returning
+CUST058,Customer_58,T-shirt,Formalwear,XL,Black,706,2,1412,2024-05-27,Thamel,Website,390,Male,2,Returning
+CUST059,Customer_59,Shorts,Bottomwear,L,Black,2519,4,10076,2024-01-04,Bhaktapur,Visited Store,235,Male,4,New
+CUST060,Customer_60,Coat,Outerwear,M,Blue,2152,2,4304,2024-10-03,Thamel,Visited Store,464,Male,5,Returning
+CUST061,Customer_61,Jacket,Formalwear,L,Pink,4769,4,19076,2024-06-07,Kathmandu,Website,179,Male,3,Returning
+CUST062,Customer_62,Shorts,Casualwear,XL,Black,2522,4,10088,2023-11-17,Kathmandu,Visited Store,95,Male,1,Returning
+CUST063,Customer_63,Blazer,Outerwear,XL,Gray,1263,3,3789,2024-10-20,Boudha,Visited Store,180,Male,4,Returning
+CUST064,Customer_64,Blazer,Topwear,L,Blue,1721,5,8605,2024-04-02,Kathmandu,Website,482,Male,5,New
+CUST065,Customer_65,Jeans,Topwear,S,Black,1871,4,7484,2024-01-28,Kathmandu,Website,394,Male,4,New
+CUST066,Customer_66,Shirt,Casualwear,M,Yellow,4643,3,13929,2024-01-17,Patan,Website,61,Female,5,Returning
+CUST067,Customer_67,Shirt,Casualwear,S,White,1143,4,4572,2024-03-03,Lalitpur,Website,323,Female,5,Returning
+CUST068,Customer_68,Shorts,Formalwear,L,Green,3601,4,14404,2024-07-11,Patan,Website,415,Male,3,New
+CUST069,Customer_69,Skirt,Topwear,S,Blue,3156,2,6312,2024-05-18,Thamel,Visited Store,220,Female,5,New
+CUST070,Customer_70,Dress,Formalwear,L,Blue,3331,5,16655,2024-08-12,Bhaktapur,Website,89,Female,4,Returning
+CUST071,Customer_71,Jacket,Topwear,XL,Blue,1093,3,3279,2024-01-03,Jawalakhel,Website,102,Female,5,New
+CUST072,Customer_72,Jacket,Bottomwear,L,White,4850,1,4850,2024-05-02,Lalitpur,Visited Store,436,Female,3,Returning
+CUST073,Customer_73,Skirt,Bottomwear,L,Gray,2676,5,13380,2024-08-19,Thamel,Website,58,Male,3,Returning
+CUST074,Customer_74,Jeans,Formalwear,XL,Green,4938,5,24690,2024-08-29,Lalitpur,Visited Store,175,Female,4,New
+CUST075,Customer_75,Jeans,Formalwear,L,Black,1181,5,5905,2024-08-31,Bhaktapur,Website,71,Male,2,New
+CUST076,Customer_76,Shorts,Topwear,XL,White,3029,3,9087,2024-08-18,Boudha,Website,449,Female,2,Returning
+CUST077,Customer_77,Jacket,Casualwear,L,Black,1531,5,7655,2024-07-01,Thamel,Visited Store,363,Female,5,Returning
+CUST078,Customer_78,Coat,Bottomwear,XL,Yellow,3813,3,11439,2024-02-20,Lalitpur,Visited Store,172,Female,1,New
+CUST079,Customer_79,T-shirt,Outerwear,L,Gray,3174,3,9522,2024-01-15,Patan,Visited Store,471,Male,5,Returning
+CUST080,Customer_80,Shirt,Topwear,M,Blue,3860,3,11580,2023-11-12,Bhaktapur,Visited Store,170,Female,4,New
+CUST081,Customer_81,Jeans,Outerwear,M,Blue,3716,5,18580,2024-01-20,Kathmandu,Visited Store,164,Male,4,Returning
+CUST082,Customer_82,T-shirt,Topwear,M,Red,1852,4,7408,2024-09-09,Jawalakhel,Website,76,Female,4,New
+CUST083,Customer_83,Dress,Topwear,L,Red,581,3,1743,2024-07-27,Lalitpur,Website,467,Male,4,New
+CUST084,Customer_84,Skirt,Formalwear,XL,Yellow,837,4,3348,2024-10-18,Patan,Website,62,Female,4,New
+CUST085,Customer_85,Coat,Casualwear,S,Yellow,950,5,4750,2024-08-12,Thamel,Website,411,Male,3,Returning
+CUST086,Customer_86,Shorts,Bottomwear,S,Green,769,1,769,2024-10-10,Thamel,Visited Store,240,Male,2,Returning
+CUST087,Customer_87,Shirt,Topwear,M,Yellow,2055,1,2055,2024-06-20,Lalitpur,Visited Store,50,Female,4,New
+CUST088,Customer_88,Jacket,Formalwear,S,Pink,3973,2,7946,2024-03-03,Thamel,Visited Store,110,Male,1,Returning
+CUST089,Customer_89,Jeans,Casualwear,S,Yellow,4256,2,8512,2024-03-26,Kathmandu,Website,473,Female,1,New
+CUST090,Customer_90,Blazer,Outerwear,L,Gray,3164,1,3164,2024-04-13,Boudha,Website,433,Female,1,New
+CUST091,Customer_91,Shorts,Casualwear,L,Green,1158,2,2316,2024-05-26,Lalitpur,Website,399,Female,1,Returning
+CUST092,Customer_92,Blazer,Bottomwear,S,Yellow,629,5,3145,2024-08-24,Boudha,Visited Store,156,Female,3,Returning
+CUST093,Customer_93,Jacket,Outerwear,L,Blue,2551,3,7653,2024-05-02,Patan,Website,437,Female,1,New
+CUST094,Customer_94,T-shirt,Formalwear,XL,White,1768,2,3536,2024-10-01,Patan,Website,255,Female,4,Returning
+CUST095,Customer_95,Jacket,Bottomwear,M,White,1467,1,1467,2024-03-25,Kathmandu,Website,377,Female,5,Returning
+CUST096,Customer_96,Shirt,Bottomwear,L,Pink,4132,1,4132,2024-10-10,Lalitpur,Website,141,Female,1,New
+CUST097,Customer_97,Shorts,Bottomwear,XL,Green,4398,2,8796,2024-10-05,Patan,Website,113,Female,3,New
+CUST098,Customer_98,Jeans,Outerwear,M,Black,2867,1,2867,2023-11-29,Lalitpur,Website,344,Female,3,Returning
+CUST099,Customer_99,Coat,Topwear,L,Gray,4321,3,12963,2024-05-30,Jawalakhel,Visited Store,363,Female,1,New
+CUST100,Customer_100,T-shirt,Topwear,M,Red,1287,5,6435,2024-01-13,Bhaktapur,Visited Store,150,Male,5,New
