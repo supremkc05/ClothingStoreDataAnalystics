@@ -1,7 +1,9 @@
-**Clothing Sales Analysis**__
+**Clothing Sales Analysis**
+
 This project analyzes clothing sales data using various machine learning models and visualizations. The data is processed, visualized, and used to train regression models to predict costs.
 
-**Project Structure**__
+**Project Structure**
+
 .gitignore
 Cleaned_Clothing.csv
 Clothing.csv
@@ -9,9 +11,11 @@ individeual.html
 individeual.ipynb
 
 **Data**
+
 The dataset used in this project is Cleaned_Clothing.csv. It contains information about clothing sales, including customer details, product details, and sales information.
 
 **Notebooks**
+
 individeual.ipynb
 This Jupyter notebook contains the following sections:
 
